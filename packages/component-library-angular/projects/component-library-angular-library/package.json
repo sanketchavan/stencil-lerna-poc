@@ -1,0 +1,12 @@
+{
+  "name": "component-library-angular-library",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": "^10.0.6",
+    "rxjs": "~6.5.5"
+  },
+  "dependencies": {
+    "component-library": "file:/Users/sanketsatishchavan/Workspace/Stencil/lerna-repo/packages/component-library/component-library-0.0.0.tgz",
+    "tslib": "^2.0.0"
+  }
+}
